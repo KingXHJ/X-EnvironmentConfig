@@ -15,3 +15,4 @@ Some environmental configuration experience and note them down
 - [配置 Cloudflare AI Worker](./Cloudflare%20AI%20Worker/README.md)
 - [Nougat 安装方式](./Nougat%20Install/README.md)
 - [CodeBoarding 配置](./CodeBoarding%20Setup/README.md)
+- [CC源码配置LiteLLM](./LiteLLM/README.md)
